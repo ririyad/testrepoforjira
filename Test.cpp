@@ -7,5 +7,7 @@ int main()
     int i;
     for(int i = 0; i < 10; i++)
         cout << "Testing JIRA" << endl;
+
+        cout << "Hello World" << endl;
     return 0;
 }
